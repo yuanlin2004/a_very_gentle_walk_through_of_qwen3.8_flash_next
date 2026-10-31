@@ -25,4 +25,4 @@ GitHub Pages can publish directly from **main / (root)**. The repository also in
 - `app.js` — architecture comparison, gated-write example, illustrative sparse selection and routing, cache calculator, reading progress
 - `assets/favicon.svg` — local vector favicon
 
-The cache calculator derives sizes from the source's shapes: GDN matrices are `36 × 48 × 128 × 128 × 4` bytes; QSA KV and block summaries are `24,576 + 768` bytes per token. It excludes weights, working buffers, convolution history, MTP, and allocation overhead.
+The cache calculator derives sizes from tensor dimensions: GDN matrices are `36 × 48 × 128 × 128 × 4` bytes; QSA KV and block summaries are `24,576 + 768` bytes per token. It excludes weights, working buffers, convolution history, MTP, and allocation overhead.
