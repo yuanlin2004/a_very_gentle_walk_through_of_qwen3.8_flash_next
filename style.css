@@ -21,3 +21,6 @@ footer{flex-wrap:wrap}.credits{flex-basis:100%;margin:0 0 8px;font-size:16px;col
 
 /* Mathematical indices use semantic HTML, rather than literal TeX syntax. */
 .math-inline,.formula{font-family:"Cambria Math","STIX Two Math","Times New Roman",serif;font-variant-numeric:lining-nums}.math-inline{white-space:nowrap;font-size:1.05em}.formula{font-size:19px;line-height:2;overflow-x:auto}.math-inline sub,.formula sub{font-size:.72em;line-height:0;vertical-align:sub}.math-inline sup,.formula sup{font-size:.72em;line-height:0;vertical-align:super}@media(max-width:600px){.formula{font-size:18px}}
+
+/* Mixer-type colors are distinct from the block-comparison colors. */
+.layer-strip span,.legend .gdn-key{background:#5285ba}.layer-strip span.qsa,.legend .qsa-key{background:#9466ad}.dark .layer-strip span,.dark .legend .gdn-key{background:#78a9d6}.dark .layer-strip span.qsa,.dark .legend .qsa-key{background:#bb91d1}
