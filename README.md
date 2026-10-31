@@ -4,7 +4,7 @@ An illustrated, interactive architecture guide for readers familiar with Llama 3
 
 **Website:** https://yuanlin2004.github.io/a_very_gentle_walk_through_of_qwen3.8_flash_next/
 
-Based on [Chisel Cherry's model notes](https://github.com/yuanlin2004/chisel-cherry/blob/main/research/models/flash-next-model.md). Source file read October 30, 2026, blob `0e5ec8440ef517c9805bf9d7a82b088062c0a39c`. Estimates and illustrative demos are identified in the page.
+Shape-derived estimates and illustrative demos are identified in the page. Public background references are listed in the walkthrough.
 
 ## Run locally
 
