@@ -14,3 +14,5 @@
 @media(min-width:851px) and (max-width:1190px){.hero-art{width:215px}.hero>p.hero-intro,.hero>p.hero-deck{max-width:calc(100% - 240px)}}
 @media(min-width:601px) and (max-width:850px){.hero-art{width:240px}.hero>p.hero-intro,.hero>p.hero-deck{max-width:calc(100% - 265px)}}
 @media(max-width:600px){.hero{min-height:0}.topbar{padding:0 14px}.wordmark{font-size:11px;letter-spacing:.6px;gap:6px}.top-actions{gap:10px;font-size:13px}.hero-art{width:280px;max-width:100%}.hero-links .text-link{font-size:16px}.hero-foot{justify-content:flex-start;gap:10px}.hero-foot span+span:before{margin-right:10px}.lane-row{grid-template-columns:55px 1fr 110px;gap:6px}.step-flow{flex-direction:column;align-items:stretch}.step-flow>span{text-align:center;transform:rotate(90deg)}.step-flow>div{padding:16px}.stat-band{grid-template-columns:1fr}.stat-band>div{padding:8px 0}.cache-row>div:first-child,.range-label{gap:10px;flex-wrap:wrap}.formula{font-size:15px}.hero>p.hero-intro,.hero>p.hero-deck{max-width:100%}}
+
+footer{flex-wrap:wrap}.credits{flex-basis:100%;margin:0 0 8px;font-size:16px;color:var(--ink)}
